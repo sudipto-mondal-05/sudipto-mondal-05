@@ -3,9 +3,9 @@
 </div>
 
 
-# 👋 **Hey there**
+## 👋 **Hey there**
 
-I'm [Sudipto](https://www.linkedin.com/in/sudipto-mondal-2005s)
+# I'm [Sudipto](https://www.linkedin.com/in/sudipto-mondal-2005s)
 
 ECE Student interested in:
 - Embedded Systems
@@ -14,7 +14,7 @@ ECE Student interested in:
 - Cybersecurity
 - Linux
 
-Currently working on ESP32, AI/ML, and real-world engineering projects.
+Currently building projects using ESP32, Python, AI/ML, and real-world datasets.
 
 ---
 
