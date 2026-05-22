@@ -3,7 +3,9 @@
 </div>
 
 
-# Hi, I'm [Sudipto](https://www.linkedin.com/in/sudipto-mondal-2005s)
+# 👋 **Hey there**
+
+I'm [Sudipto](https://www.linkedin.com/in/sudipto-mondal-2005s)
 
 ECE Student interested in:
 - Embedded Systems
