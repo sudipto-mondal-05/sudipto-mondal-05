@@ -5,22 +5,23 @@
 
 ## 👋 **Hey there**
 
-# I'm [Sudipto](https://www.linkedin.com/in/sudipto-mondal-2005s)
+I'm [Sudipto](https://www.linkedin.com/in/sudipto-mondal-2005s), a ECE student from India.
 
-ECE Student interested in:
+Interested in:
 - Embedded Systems
 - IoT
 - Machine Learning
 - Cybersecurity
 - Linux
 
-Currently building projects using ESP32, Python, AI/ML, and real-world datasets.
+I love to explore new topics and work on them.
+Currently building projects using ESP32, Python, AI/ML with real-world datasets.
 
 ---
 
 ## Tech Stack
 
-Python • C • ESP32 • Streamlit • Git • Linux
+Python • C • Java • ESP32 • Streamlit • Git • Linux
 
 ---
 
